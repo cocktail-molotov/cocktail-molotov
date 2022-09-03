@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Cosmin</h1>
-<h3 align="center">I am from Romania, living on the outskirts of Suceava.</h3>
+<h3 align="center">I am from Romania</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cocktail-molotov&label=Profile%20views&color=2fd042&style=plastic" alt="cocktail-molotov" /> </p>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cocktail-molotov" alt="cocktail-molotov" /></a> </p>
